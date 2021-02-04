@@ -1,0 +1,23 @@
+{
+    "CustomerID": "",
+    "CustomerName": "Quang",
+    "ContactName": "Lê",
+    "Address": "hoa phong",
+    "City": "da nang",
+    "PostalCode": "5000",
+    "Country": "viet Nam"
+}
+
+{
+    "OrderID": "",
+    "CustomerID": "5",
+    "EmployeeID": "1",
+    "OrderDate": "1996-07-04",
+    "ShipperID": "1"
+}
+
+{
+    "ShipperID": "",
+    "ShipperName": "United Package",
+    "Phone": "555-3199"  
+}
